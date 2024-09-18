@@ -1,3 +1,9 @@
+# Notice: Repository Deprecation
+This repository is deprecated and no longer actively maintained. It contains outdated code examples or practices that do not align with current MongoDB best practices. While the repository remains accessible for reference purposes, we strongly discourage its use in production environments.
+Users should be aware that this repository will not receive any further updates, bug fixes, or security patches. This code may expose you to security vulnerabilities, compatibility issues with current MongoDB versions, and potential performance problems. Any implementation based on this repository is at the user's own risk.
+For up-to-date resources, please refer to the [MongoDB Developer Center](https://mongodb.com/developer).
+
+
 # Tutorial: Integrating Apple Sign-in with Realm using the Swift SDK: A Step-by-Step Guide
 
 This repository contains the code for the tutorial in MongoDB Developer Center that demonstrates how to implement authentication with Apple Sign In using Realm in a Swift-based project. The tutorial provides step-by-step instructions and code examples to help you integrate Apple Sign In into your app and leverage the Realm database for user authentication.
